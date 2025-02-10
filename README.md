@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agentt4ty7
-- 👀 I’m interested in ...php
-- 🌱 I’m currently learning ...php/sql
+- 👀 I’m interested in working remotely or otherwise
+- 🌱 I’m currently working with... nodejs/react/laravel/php/sql
 - 💞️ I’m looking to collaborate on ...javascript
 - 📫 How to reach me ... israelsilas32@gmail.com
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agentt4ty7&langs_count=8)
